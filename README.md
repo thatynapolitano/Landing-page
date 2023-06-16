@@ -1,5 +1,4 @@
 # Landing Page of Optical Services
-## One Bit Code
 
 ### Link para visualização: https://landing-page-ten-theta.vercel.app/ 
 
@@ -10,7 +9,7 @@ Portanto, criei uma landing page que oferece serviços de montagem de óculos co
 
 Esse projeto foi importante para consolidar meus conhecimentos até então de HTML e CSS. 
 
-Esse é um projeto ainda em desenvolvimento. Busco aprimorá-lo conforme for consolidando meus conhecimentos para que o projeto tenha maior interação com o usuário.
+O projeto ainda está em desenvolvimento. Busco aprimorá-lo conforme for consolidando meus conhecimentos para que o projeto tenha maior interação com o usuário.
 
 Este projeto contém:
 - HTML 
