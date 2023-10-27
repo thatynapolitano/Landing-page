@@ -2,9 +2,9 @@
 
 ### Link para visualização: https://landing-page-ten-theta.vercel.app/ 
 
-Esse projeto foi criado por meio de tutorial do curso e canal One Bit Code. 
+Esse projeto foi criado a partir de estudos do curso e canal One Bit Code. 
 
-Após a realização do projeto, apliquei os conceitos e os aprendizados para a minha realidade próxima. 
+Após o estudo, apliquei os conceitos e os aprendizados para a minha realidade próxima. 
 Portanto, criei uma landing page que oferece serviços de montagem de óculos com uso de lentes específicas que atendam a necessidade do cliente.
 
 Esse projeto foi importante para consolidar meus conhecimentos até então de HTML e CSS. 
